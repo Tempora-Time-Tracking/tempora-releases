@@ -1,0 +1,25 @@
+# Creates a GitHub Release with the DMG + update zip whenever release.sh
+# (in the tempora-macos repo) pushes a v<version> tag. The tagged commit
+# always contains <version>/ with the artifacts and release notes, because
+# the script pushes main and the tag atomically.
+name: GitHub Release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          gh release create "$GITHUB_REF_NAME" \
+            "$VERSION/Tempora-$VERSION.dmg" \
+            "$VERSION/Tempora-$VERSION.zip" \
+            --title "Tempora $VERSION" \
+            --notes-file "$VERSION/ReleaseNotes.html"
