@@ -3,6 +3,19 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.2</title>
+            <pubDate>Thu, 16 Jul 2026 19:34:44 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.2</h2>
+<ul>
+    <li><b>Fixed</b> — quitting the app (⌘Q) no longer gets stuck while the "Update Required" screen is shown.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2/Tempora-0.2.zip" length="7051649" type="application/octet-stream" sparkle:edSignature="GBaFweotrtKFOdcM1iP9KVqxys1ZtaQ/R7n4Cq4C/tHzQfmXtt4iCZEJpzJHEBoCO8RaoKHtUpPN0vktTyR8DA=="/>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Thu, 16 Jul 2026 18:58:50 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
