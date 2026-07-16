@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tempora</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Thu, 16 Jul 2026 18:58:50 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.1</h2>
+<p>The first release of Tempora — a native macOS time tracker that turns the hours you actually work into clean, organized records, with almost no manual bookkeeping.</p>
+<ul>
+    <li><b>Timers</b> — start, pause, and stop from the toolbar, menu bar, or keyboard; schedule timers for later and let them start automatically.</li>
+    <li><b>Automatic activity tracking</b> — records the apps and windows you use (including browser tabs), with idle detection and working-hours limits so breaks don't pad your hours.</li>
+    <li><b>Visual timeline</b> — your day color-coded by project, with zoom, drag-to-select, and your calendar events shown alongside.</li>
+    <li><b>Jira worklogs</b> — one-click batch upload of entries to their tickets, with smart reminders when unlogged work piles up.</li>
+    <li><b>Insights &amp; portability</b> — per-project stats and charts, JSON/CSV export, JSON import.</li>
+    <li><b>Automation</b> — Spotlight, Siri &amp; Shortcuts actions, AppleScript, and a URL scheme.</li>
+</ul>
+<p>Your data stays on your Mac; Jira credentials live in the Keychain. Thanks for trying Tempora — feedback is always welcome.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.1/Tempora-0.1.zip" length="7046328" type="application/octet-stream" sparkle:edSignature="86uyi30SfCgh6F8AyXsYBUeG1x3jvrlJR1KDr2qfYRcPC0mt5sGja1hv/0mif+UlXE5c+KJBXmFzAN+otuvxDA=="/>
+        </item>
+    </channel>
+</rss>
