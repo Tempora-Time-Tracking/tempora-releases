@@ -3,6 +3,19 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Mon, 20 Jul 2026 20:58:02 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.3.1</h2>
+<ul>
+    <li><b>Maintenance</b> — behind-the-scenes improvements to how Tempora is built, signed, and delivered as an update. No changes to app features.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3.1/Tempora-0.3.1.zip" length="6984163" type="application/octet-stream" sparkle:edSignature="WHa+l6FM9RABSP0kSKzRYo6RkSfp80kvTutldemF8TrR4JO1diaURsUujonTM46PpObY/ICf8uyl9TDf1HdBBQ=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Mon, 20 Jul 2026 21:09:25 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -30,19 +43,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2.2/Tempora-0.2.2.zip" length="7048724" type="application/octet-stream" sparkle:edSignature="8BYxY0TCGi+8RHAQSJDuOp9/vldbB4FJ3e/PApQUdPm2wp3U/nh+Ky5cEZfwWWUFdALI5V0AqPPOcJElzHqcAQ=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Mon, 20 Jul 2026 11:23:15 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.2.1</h2>
-<ul>
-    <li><b>Fixed</b> — Teams call detection now names entries with the actual meeting title instead of "Meeting join"; the pre-join screen is no longer mistaken for the call itself.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2.1/Tempora-0.2.1.zip" length="7051675" type="application/octet-stream" sparkle:edSignature="sKq8b+ciqavTNB6m57yCP4wGUhXGHnvAHYyTWWV1U1ns0LlL2g8ch00Sxi3qgEGB+ebbfXXiLBL1bQUicOv4BQ=="/>
         </item>
     </channel>
 </rss>
