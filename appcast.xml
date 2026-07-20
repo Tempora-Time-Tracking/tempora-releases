@@ -3,6 +3,22 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.3</title>
+            <pubDate>Mon, 20 Jul 2026 21:09:25 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.3</h2>
+<ul>
+    <li><b>Fixed</b> — Calendar integration now works in the installed app. Turning it on in Settings → Calendar prompts for access as expected, your calendars appear, and events show in a dedicated lane on the day timeline where you can turn a meeting into a time entry with a click. (Previously the permission prompt never appeared, so no calendars or events were shown.)</li>
+    <li><b>New</b> — Settings options that depend on another option now clearly show as off until that option is enabled, so an unavailable toggle no longer looks active.</li>
+    <li><b>Fixed</b> — Microsoft Teams call detection no longer names an entry "Sharing control bar" when you share your screen during a call.</li>
+    <li><b>Fixed</b> — after an unexpected quit, an in-progress app-usage segment is recovered up to its last recorded activity instead of being stretched to the time you reopened Tempora.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3/Tempora-0.3.zip" length="7054115" type="application/octet-stream" sparkle:edSignature="061OWXiimaiM2XgealjQwaQV7toGU+L8IvW0++HXulcXxOQsVKorcZ3UH32EE1TY5/JtwQlxg2nRqif65JIZAw=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Mon, 20 Jul 2026 12:06:38 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -27,19 +43,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2.1/Tempora-0.2.1.zip" length="7051675" type="application/octet-stream" sparkle:edSignature="sKq8b+ciqavTNB6m57yCP4wGUhXGHnvAHYyTWWV1U1ns0LlL2g8ch00Sxi3qgEGB+ebbfXXiLBL1bQUicOv4BQ=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Thu, 16 Jul 2026 19:34:44 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.2</h2>
-<ul>
-    <li><b>Fixed</b> — quitting the app (⌘Q) no longer gets stuck while the "Update Required" screen is shown.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2/Tempora-0.2.zip" length="7051649" type="application/octet-stream" sparkle:edSignature="GBaFweotrtKFOdcM1iP9KVqxys1ZtaQ/R7n4Cq4C/tHzQfmXtt4iCZEJpzJHEBoCO8RaoKHtUpPN0vktTyR8DA=="/>
         </item>
     </channel>
 </rss>
