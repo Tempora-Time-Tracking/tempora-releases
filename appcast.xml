@@ -3,6 +3,19 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Mon, 20 Jul 2026 11:23:15 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.2.1</h2>
+<ul>
+    <li><b>Fixed</b> — Teams call detection now names entries with the actual meeting title instead of "Meeting join"; the pre-join screen is no longer mistaken for the call itself.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2.1/Tempora-0.2.1.zip" length="7051675" type="application/octet-stream" sparkle:edSignature="sKq8b+ciqavTNB6m57yCP4wGUhXGHnvAHYyTWWV1U1ns0LlL2g8ch00Sxi3qgEGB+ebbfXXiLBL1bQUicOv4BQ=="/>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Thu, 16 Jul 2026 19:34:44 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
