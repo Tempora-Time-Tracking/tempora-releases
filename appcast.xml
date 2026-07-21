@@ -3,6 +3,21 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Tue, 21 Jul 2026 12:07:31 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.3.2</h2>
+<ul>
+    <li><b>Fixed</b> — saving your Jira account details failed with a Keychain error in 0.3.1. Credentials save correctly again.</li>
+    <li><b>Fixed</b> — calendar integration and browser activity tracking stopped working in 0.3.1. Both are restored.</li>
+</ul>
+<p>If you are on 0.3.1, updating to 0.3.2 restores all of the above. Versions 0.3 and earlier were unaffected.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3.2/Tempora-0.3.2.zip" length="6983533" type="application/octet-stream" sparkle:edSignature="3h4dIdFogq9zdkQ0ZX0nAx91+Jebix/dFipaWBsdr/qZs9YygZoss7ffm3MYzyMxPdb60crPOjo5OjK2jJzXCQ=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Mon, 20 Jul 2026 21:09:25 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
