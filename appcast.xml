@@ -3,19 +3,6 @@
     <channel>
         <title>Tempora</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Mon, 20 Jul 2026 20:58:02 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.3.1</h2>
-<ul>
-    <li><b>Maintenance</b> — behind-the-scenes improvements to how Tempora is built, signed, and delivered as an update. No changes to app features.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3.1/Tempora-0.3.1.zip" length="6984163" type="application/octet-stream" sparkle:edSignature="WHa+l6FM9RABSP0kSKzRYo6RkSfp80kvTutldemF8TrR4JO1diaURsUujonTM46PpObY/ICf8uyl9TDf1HdBBQ=="/>
-        </item>
-        <item>
             <title>0.3</title>
             <pubDate>Mon, 20 Jul 2026 21:09:25 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
