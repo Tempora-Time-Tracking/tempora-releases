@@ -3,6 +3,22 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Tue, 21 Jul 2026 19:46:38 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4</h2>
+<ul>
+    <li><b>New</b> — Timer presets. Save a reusable timer setup — a title, optionally tied to a project — once, then start from it in a click. Presets live under their project in the sidebar, double as filters that narrow the list to just that work, accept drops (drag an entry, a running timer, or tracked app usage onto a preset to make it match), and appear in the New Timer popover in the toolbar and menu bar.</li>
+    <li><b>New</b> — You can now jot notes on a timer while creating it in the New Timer form.</li>
+    <li><b>Fixed</b> — discarding a running timer from the menu-bar popover now works. Previously the confirmation dismissed the whole popover without discarding.</li>
+    <li><b>Fixed</b> — browser tab tracking now honours the per-browser opt-in, so a browser you have not enabled is no longer read.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4/Tempora-0.4.zip" length="7140372" type="application/octet-stream" sparkle:edSignature="XON5MJM+H/zdDD0/N/bNxylpWu6zosnumNcWn8hNbTLHYYjNG4XSW62Nj6UZWui4yHIA8Aa1EGGbP7UydjIdBg=="/>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Tue, 21 Jul 2026 12:07:31 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -32,19 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3/Tempora-0.3.zip" length="7054115" type="application/octet-stream" sparkle:edSignature="061OWXiimaiM2XgealjQwaQV7toGU+L8IvW0++HXulcXxOQsVKorcZ3UH32EE1TY5/JtwQlxg2nRqif65JIZAw=="/>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Mon, 20 Jul 2026 12:06:38 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.2.2</h2>
-<ul>
-    <li><b>Fixed</b> — Calendar integration now shows your calendars and the timeline calendar lane again. When calendar access hadn't been granted yet, an already-enabled integration would silently show no calendars and no lane; Tempora now prompts for access on the Calendar settings tab and refreshes as soon as access is granted.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.2.2/Tempora-0.2.2.zip" length="7048724" type="application/octet-stream" sparkle:edSignature="8BYxY0TCGi+8RHAQSJDuOp9/vldbB4FJ3e/PApQUdPm2wp3U/nh+Ky5cEZfwWWUFdALI5V0AqPPOcJElzHqcAQ=="/>
         </item>
     </channel>
 </rss>
