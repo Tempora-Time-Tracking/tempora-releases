@@ -1,4 +1,4 @@
-# Tempora — Releases
+# Tempora
 
 **A native macOS app for organizing and managing your time.**
 
