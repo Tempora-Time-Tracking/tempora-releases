@@ -3,6 +3,22 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Wed, 22 Jul 2026 08:20:50 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4.1</h2>
+<ul>
+    <li><b>New</b> — Edit a running timer. Open the actions menu on the active timer and choose Edit to change its title, project, notes, or start time without stopping it.</li>
+    <li><b>New</b> — Open Tempora directly from the menu-bar timer popover, above Settings.</li>
+    <li><b>New</b> — Delete a project or a timer preset from its edit popover, so you no longer have to reach for the sidebar's context menu.</li>
+    <li><b>Improved</b> — a custom start time for a new or edited timer can no longer be set in the future.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.1/Tempora-0.4.1.zip" length="7215163" type="application/octet-stream" sparkle:edSignature="demd1VKYo32Ps5IB4It8dqzCqwzTphW23+tAe8VNXcRlp+Ws/VpXqGTCOMCY+8cuGqirsynPSiLm3ZLY6UHEDw=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Tue, 21 Jul 2026 19:46:38 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -32,22 +48,6 @@
 <p>If you are on 0.3.1, updating to 0.3.2 restores all of the above. Versions 0.3 and earlier were unaffected.</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3.2/Tempora-0.3.2.zip" length="6983533" type="application/octet-stream" sparkle:edSignature="3h4dIdFogq9zdkQ0ZX0nAx91+Jebix/dFipaWBsdr/qZs9YygZoss7ffm3MYzyMxPdb60crPOjo5OjK2jJzXCQ=="/>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Mon, 20 Jul 2026 21:09:25 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.3</h2>
-<ul>
-    <li><b>Fixed</b> — Calendar integration now works in the installed app. Turning it on in Settings → Calendar prompts for access as expected, your calendars appear, and events show in a dedicated lane on the day timeline where you can turn a meeting into a time entry with a click. (Previously the permission prompt never appeared, so no calendars or events were shown.)</li>
-    <li><b>New</b> — Settings options that depend on another option now clearly show as off until that option is enabled, so an unavailable toggle no longer looks active.</li>
-    <li><b>Fixed</b> — Microsoft Teams call detection no longer names an entry "Sharing control bar" when you share your screen during a call.</li>
-    <li><b>Fixed</b> — after an unexpected quit, an in-progress app-usage segment is recovered up to its last recorded activity instead of being stretched to the time you reopened Tempora.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3/Tempora-0.3.zip" length="7054115" type="application/octet-stream" sparkle:edSignature="061OWXiimaiM2XgealjQwaQV7toGU+L8IvW0++HXulcXxOQsVKorcZ3UH32EE1TY5/JtwQlxg2nRqif65JIZAw=="/>
         </item>
     </channel>
 </rss>
