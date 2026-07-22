@@ -3,6 +3,19 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Wed, 22 Jul 2026 17:28:33 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4.3</h2>
+<ul>
+    <li><b>Fixed</b> — popovers are more reliable. Some could refuse to open after being used once, and others could be left on screen with no way to dismiss them.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.3/Tempora-0.4.3.zip" length="7239695" type="application/octet-stream" sparkle:edSignature="muL+NGh/P6Ara3LRDR5LDJXKmvSYaV6hbcbKFEYioHAG+myF6o3eTEjzCyHC/W5l3c32yUlD4No6Qc+DDNauAA=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Wed, 22 Jul 2026 15:43:23 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -34,22 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.1/Tempora-0.4.1.zip" length="7215163" type="application/octet-stream" sparkle:edSignature="demd1VKYo32Ps5IB4It8dqzCqwzTphW23+tAe8VNXcRlp+Ws/VpXqGTCOMCY+8cuGqirsynPSiLm3ZLY6UHEDw=="/>
-        </item>
-        <item>
-            <title>0.4</title>
-            <pubDate>Tue, 21 Jul 2026 19:46:38 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.4</h2>
-<ul>
-    <li><b>New</b> — Timer presets. Save a reusable timer setup — a title, optionally tied to a project — once, then start from it in a click. Presets live under their project in the sidebar, double as filters that narrow the list to just that work, accept drops (drag an entry, a running timer, or tracked app usage onto a preset to make it match), and appear in the New Timer popover in the toolbar and menu bar.</li>
-    <li><b>New</b> — You can now jot notes on a timer while creating it in the New Timer form.</li>
-    <li><b>Fixed</b> — discarding a running timer from the menu-bar popover now works. Previously the confirmation dismissed the whole popover without discarding.</li>
-    <li><b>Fixed</b> — browser tab tracking now honours the per-browser opt-in, so a browser you have not enabled is no longer read.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4/Tempora-0.4.zip" length="7140372" type="application/octet-stream" sparkle:edSignature="XON5MJM+H/zdDD0/N/bNxylpWu6zosnumNcWn8hNbTLHYYjNG4XSW62Nj6UZWui4yHIA8Aa1EGGbP7UydjIdBg=="/>
         </item>
     </channel>
 </rss>

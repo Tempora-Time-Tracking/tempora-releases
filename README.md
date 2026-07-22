@@ -10,13 +10,13 @@ This repository hosts the official release downloads and the auto-update feed.
 
 ## Download
 
-**[⬇ Download Tempora 0.4.2 (.dmg)](https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.2/Tempora-0.4.2.dmg)**
+**[⬇ Download Tempora 0.4.3 (.dmg)](https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.3/Tempora-0.4.3.dmg)**
 
 Requires **macOS 15 (Sequoia) or later**. The app is signed with a Developer ID and notarized by Apple.
 
 ## Install
 
-1. Open the downloaded `Tempora-0.4.2.dmg`.
+1. Open the downloaded `Tempora-0.4.3.dmg`.
 2. Drag **Tempora** onto the **Applications** shortcut in the same window.
 3. Launch Tempora from Applications.
 
