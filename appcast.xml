@@ -3,6 +3,23 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Wed, 22 Jul 2026 15:43:23 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4.2</h2>
+<ul>
+    <li><b>Changed</b> — Timer presets are now called <b>tickets</b>. The name fits what they had become: a saved title and project you track work against, not just a way to start a timer. Your existing presets carry over as tickets — nothing to redo.</li>
+    <li><b>New</b> — The menu-bar timer popover now shows how much you have logged today, so you can check the day's total without opening Tempora.</li>
+    <li><b>New</b> — Tickets appear as suggestions while you type an entry or timer title, so you can fill in a ticket id and project in one step.</li>
+    <li><b>Improved</b> — When a call ends and Jira is set up, the meeting name now goes into the notes field and the title is left free — pick a ticket there to fill in its id and project, and the meeting name still travels to Jira as the worklog comment.</li>
+    <li><b>Improved</b> — New tickets start with "prepend title" turned off.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.2/Tempora-0.4.2.zip" length="7235018" type="application/octet-stream" sparkle:edSignature="JfnR9V3dl3TwXCH1i4qsgVcgw6quupicgfg8oMi37haW83VIJipZrcy8fhUIErb7r5GlgwuzJGAtCyMvcyi7Aw=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Wed, 22 Jul 2026 08:20:50 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -33,21 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4/Tempora-0.4.zip" length="7140372" type="application/octet-stream" sparkle:edSignature="XON5MJM+H/zdDD0/N/bNxylpWu6zosnumNcWn8hNbTLHYYjNG4XSW62Nj6UZWui4yHIA8Aa1EGGbP7UydjIdBg=="/>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Tue, 21 Jul 2026 12:07:31 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.3.2</h2>
-<ul>
-    <li><b>Fixed</b> — saving your Jira account details failed with a Keychain error in 0.3.1. Credentials save correctly again.</li>
-    <li><b>Fixed</b> — calendar integration and browser activity tracking stopped working in 0.3.1. Both are restored.</li>
-</ul>
-<p>If you are on 0.3.1, updating to 0.3.2 restores all of the above. Versions 0.3 and earlier were unaffected.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.3.2/Tempora-0.3.2.zip" length="6983533" type="application/octet-stream" sparkle:edSignature="3h4dIdFogq9zdkQ0ZX0nAx91+Jebix/dFipaWBsdr/qZs9YygZoss7ffm3MYzyMxPdb60crPOjo5OjK2jJzXCQ=="/>
         </item>
     </channel>
 </rss>
