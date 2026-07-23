@@ -3,6 +3,22 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Thu, 23 Jul 2026 15:58:17 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4.4</h2>
+<ul>
+    <li><b>New</b> — Create a ticket straight from the sidebar. The ➕ menu now has a "New Ticket" action, so you can add a ticket to a project without starting a timer first.</li>
+    <li><b>New</b> — Tickets are included in JSON export and import. Each project's tickets travel with it, and importing a backup restores them (skipping any that already exist under the same project).</li>
+    <li><b>Changed</b> — The Settings window has a cleaner layout.</li>
+    <li><b>Improved</b> — Various technical improvements under the hood.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.4/Tempora-0.4.4.zip" length="7281785" type="application/octet-stream" sparkle:edSignature="dvW0Oe+/O3h7LBFnMWVDNLqHbc8Iy9p0SjRhaERL/7psfklwMJ3TJNC9BA4LXXyVbfavGpQAsYtjne6ppWc4CA=="/>
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Wed, 22 Jul 2026 17:28:33 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -31,22 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.2/Tempora-0.4.2.zip" length="7235018" type="application/octet-stream" sparkle:edSignature="JfnR9V3dl3TwXCH1i4qsgVcgw6quupicgfg8oMi37haW83VIJipZrcy8fhUIErb7r5GlgwuzJGAtCyMvcyi7Aw=="/>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Wed, 22 Jul 2026 08:20:50 +0000</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.4.1</h2>
-<ul>
-    <li><b>New</b> — Edit a running timer. Open the actions menu on the active timer and choose Edit to change its title, project, notes, or start time without stopping it.</li>
-    <li><b>New</b> — Open Tempora directly from the menu-bar timer popover, above Settings.</li>
-    <li><b>New</b> — Delete a project or a timer preset from its edit popover, so you no longer have to reach for the sidebar's context menu.</li>
-    <li><b>Improved</b> — a custom start time for a new or edited timer can no longer be set in the future.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.1/Tempora-0.4.1.zip" length="7215163" type="application/octet-stream" sparkle:edSignature="demd1VKYo32Ps5IB4It8dqzCqwzTphW23+tAe8VNXcRlp+Ws/VpXqGTCOMCY+8cuGqirsynPSiLm3ZLY6UHEDw=="/>
         </item>
     </channel>
 </rss>
