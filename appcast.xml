@@ -3,6 +3,22 @@
     <channel>
         <title>Tempora</title>
         <item>
+            <title>0.4.5</title>
+            <pubDate>Fri, 24 Jul 2026 18:03:44 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tempora 0.4.5</h2>
+<ul>
+    <li><b>New</b> — Show today's logged time in the menu bar. Turn it on in Settings › General › Menu bar to keep your running total for the day in view, alongside the timer.</li>
+    <li><b>New</b> — Choose where a Teams call's title goes. Under Settings › Tracking › Teams call you can put the meeting name in the entry's notes (the default) or its title.</li>
+    <li><b>Improved</b> — When a call ends and the entry editor opens on its own, Tempora now plays the notification sound so you don't miss it.</li>
+    <li><b>Improved</b> — Various technical improvements under the hood.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.5/Tempora-0.4.5.zip" length="7293766" type="application/octet-stream" sparkle:edSignature="usdbQa+lcDbQEIMxw1prffDcGntPJ8bT0Nl6BaIHRru0NdhaSZp3omGHQ9Qluv/VKxUx12rJX7/S+LnkjnQmCw=="/>
+        </item>
+        <item>
             <title>0.4.4</title>
             <pubDate>Thu, 23 Jul 2026 15:58:17 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -30,23 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.3/Tempora-0.4.3.zip" length="7239695" type="application/octet-stream" sparkle:edSignature="muL+NGh/P6Ara3LRDR5LDJXKmvSYaV6hbcbKFEYioHAG+myF6o3eTEjzCyHC/W5l3c32yUlD4No6Qc+DDNauAA=="/>
-        </item>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Wed, 22 Jul 2026 15:43:23 +0000</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Tempora 0.4.2</h2>
-<ul>
-    <li><b>Changed</b> — Timer presets are now called <b>tickets</b>. The name fits what they had become: a saved title and project you track work against, not just a way to start a timer. Your existing presets carry over as tickets — nothing to redo.</li>
-    <li><b>New</b> — The menu-bar timer popover now shows how much you have logged today, so you can check the day's total without opening Tempora.</li>
-    <li><b>New</b> — Tickets appear as suggestions while you type an entry or timer title, so you can fill in a ticket id and project in one step.</li>
-    <li><b>Improved</b> — When a call ends and Jira is set up, the meeting name now goes into the notes field and the title is left free — pick a ticket there to fill in its id and project, and the meeting name still travels to Jira as the worklog comment.</li>
-    <li><b>Improved</b> — New tickets start with "prepend title" turned off.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Tempora-Time-Tracking/tempora-releases/main/0.4.2/Tempora-0.4.2.zip" length="7235018" type="application/octet-stream" sparkle:edSignature="JfnR9V3dl3TwXCH1i4qsgVcgw6quupicgfg8oMi37haW83VIJipZrcy8fhUIErb7r5GlgwuzJGAtCyMvcyi7Aw=="/>
         </item>
     </channel>
 </rss>
